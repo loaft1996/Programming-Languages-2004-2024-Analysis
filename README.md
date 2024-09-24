@@ -15,6 +15,6 @@ This dataset contains the following columns:
 - TypeScript Worldwide(%): The percentage of global popularity for TypeScript.
 - Matlab Worldwide(%): The percentage of global popularity for Matlab.
 
-##> Each row represents data for a particular month, starting from January 2004, tracking the popularity trends of these programming languages worldwide.
+### Each row represents data for a particular month, starting from January 2004, tracking the popularity trends of these programming languages worldwide.
 
 ![image](https://github.com/user-attachments/assets/d02b71a2-6c13-43e0-bed3-2839834616f3)
